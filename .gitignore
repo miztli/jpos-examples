@@ -1,0 +1,5 @@
+#IDE
+*.iml
+.idea/
+#compiled sources
+jpos-commons/target/
